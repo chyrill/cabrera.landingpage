@@ -1,0 +1,8 @@
+.body{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar .navbar-default{
+	background-color:transparent;
+	border:none;
+}
